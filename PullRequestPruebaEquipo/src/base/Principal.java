@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Principal {
 
 	public static void main(String[] args) {
+
 		
 		// Aldagaiak
 		
@@ -23,9 +24,8 @@ public class Principal {
 		
 		System.out.println("Zein da zure izena?");
 		izena=sc.next();
-		
-		System.out.println(izena);
 		sc.close();
+    
 	}
 
 }
